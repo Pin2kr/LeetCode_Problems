@@ -12,7 +12,7 @@ class Solution {
             int curW=w*h;
             max=Math.max(max,curW);
 
-    
+    // udate the container
        if(height[lp]<height[rp]){
         lp++;
        }else{

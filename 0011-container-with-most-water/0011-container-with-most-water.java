@@ -12,6 +12,7 @@ class Solution {
             int curW=w*h;
             max=Math.max(max,curW);
 
+    
        if(height[lp]<height[rp]){
         lp++;
        }else{

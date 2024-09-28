@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -65,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0268-missing-number) |
+| [1677-matrix-diagonal-sum](https://github.com/Pin2kr/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pin2kr/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/Pin2kr/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
